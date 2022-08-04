@@ -8,13 +8,13 @@
 
 ## Lecturers
 
-#### [Dr. Milena Tsvetkova](m.tsvetkova@lse.ac.uk)
+#### [Dr. Milena Tsvetkova](https://tsvetkova.me/)
 
 Milena Tsvetkova is Assistant Professor of Computational Social Science at the Department of Methodology at the London School of Economics and Political Science. She completed her PhD in Sociology at Cornell University and postdoctoral training at the Oxford Internet Institute. In her research, she uses large-scale web-based experiments, network analysis of online data, and agent-based modeling to investigate fundamental social phenomena such as cooperation, social contagion, segregation, and inequality.
 
-#### [Dr. Patrick Gildersleve](p.gildersleve@lse.ac.uk)
+#### [Dr. Patrick Gildersleve](https://www.lse.ac.uk/Methodology/People/Academic-Staff/Patrick-Gildersleve/Patrick-Gildersleve)
 
-Patrick Gildersleve is an LSE Fellow in Computational Social Science in the Department of Methodology. Patrick graduated with a Masters in Physics from the University of Oxford, before completing his PhD at the Oxford Internet Institute in 2021. In his PhD research, he worked on studying the intersection of news media and Wikipedia. Patrick analysed how current events are recorded and accessed on the online collaborative encyclopaedia as well as its implications for theories of news values, newsworthiness, and collective attention dynamics. He has continued this work with an expanded research agenda around popularity and collective memory across platforms online.
+Patrick Gildersleve is an LSE Fellow in Computational Social Science in the Department of Methodology at the London School of Economics and Political Science. Patrick graduated with a Masters in Physics from the University of Oxford, before completing his PhD at the Oxford Internet Institute in 2021. In his PhD research, he worked on studying the intersection of news media and Wikipedia. Patrick analysed how current events are recorded and accessed on the online collaborative encyclopaedia as well as its implications for theories of news values, newsworthiness, and collective attention dynamics. He has continued this work with an expanded research agenda around popularity and collective memory across platforms online.
 
 ## Course Description
 
@@ -62,17 +62,17 @@ Participants require a laptop computer with Anaconda and git installed.
 ### Day 1: Computation for Social Science
 
 *	What is CSS?
-  * Data, methods, and questions
-  * Accountability, reproducibility, and ethics
+   * Data, methods, and questions
+   * Accountability, reproducibility, and ethics
 * Setting up your workflow
-  * Installing Python with Anaconda
-  * Introduction to Jupyter Notebooks
-  * Introduction to Bash and GitHub
+   * Installing Python with Anaconda
+   * Introduction to Jupyter Notebooks
+   * Introduction to Bash and GitHub
 * Introduction to programming with Python
-  * Scalar data types, operators, and expressions
-  * Variable assignment, printing, and comments
-  * Non-scalar data types, indexing, and slicing
-  * List and string methods
+   * Scalar data types, operators, and expressions
+   * Variable assignment, printing, and comments
+   * Non-scalar data types, indexing, and slicing
+   * List and string methods
 
 *Recommended Literature*:
 * Matthes, Eric. [Python Crash Course Cheat Sheet](https://github.com/ehmatthes/pcc/releases/download/v1.0.0/beginners_python_cheat_sheet_pcc_all.pdf).
@@ -84,13 +84,13 @@ Participants require a laptop computer with Anaconda and git installed.
 ### Day 2: Writing Legible, Modular, and Optimized Code
 
 * Understanding control flow
-  * Conditionals
-  * Iteration
-  * List comprehensions
+   * Conditionals
+   * Iteration
+   * List comprehensions
 * Abstraction and decomposition with functions
-  * Function specifications
-  * Function arguments
-  * Variable scope
+   * Function specifications
+   * Function arguments
+   * Variable scope
 * Object-oriented programming with classes
 * Modules and libraries
 
@@ -104,13 +104,13 @@ Participants require a laptop computer with Anaconda and git installed.
 ### Day 3: Obtaining Data
 
 * Handling social data
-  * Ethics of data access
-  * Reading and writing common file types
-  * More complex data types: time and dates, Unicode, etc.
+   * Ethics of data access
+   * Reading and writing common file types
+   * More complex data types: time and dates, Unicode, etc.
 * Scraping web data
-  * Inspecting webpages
-  * Parsing static HTML with BeautifulSoup
-  * Scraping dynamic pages with Selenium
+   * Inspecting webpages
+   * Parsing static HTML with BeautifulSoup
+   * Scraping dynamic pages with Selenium
 * JSON and working with APIs
 
 *Recommended Literature*:
@@ -122,15 +122,15 @@ Participants require a laptop computer with Anaconda and git installed.
 ### Day 4: Analysing Rectangular Data
 
 * Introduction to pandas
-  * Creating DataFrames
-  * Accessing and filtering data
-  * Computing summary statistics
-  * Reading and writing data
+   * Creating DataFrames
+   * Accessing and filtering data
+   * Computing summary statistics
+   * Reading and writing data
 * Manipulating pandas DataFrames
-  * Handling different data types
-  * Combining data from different tables
-  * Applying functions to DataFrames
-  * Creating basic plots using pandas
+   * Handling different data types
+   * Combining data from different tables
+   * Applying functions to DataFrames
+   * Creating basic plots using pandas
 * Machine learning with scikit-learn
 
 *Recommended Literature*:
@@ -140,17 +140,17 @@ Participants require a laptop computer with Anaconda and git installed.
 ### Day 5: Visualising Data and Analysing Non-Rectangular Data
 
 * Basics of visualisation
-  * Understanding plot elements
-  * Choosing the right chart
-  * Principles of colour 	
+   * Understanding plot elements
+   * Choosing the right chart
+   * Principles of colour 	
 * Plotting data with Matplotlib and Seaborn
-  * Basic plotting in Python
-  * Pyplot vs the object-oriented approach
-  * Customising plots and figures
-  * Attractive plots with Seaborn
+   * Basic plotting in Python
+   * Pyplot vs the object-oriented approach
+   * Customising plots and figures
+   * Attractive plots with Seaborn
 * Analysis of non-rectangular data
-  * Network analysis with networkx
-  * Text analysis with nltk
+   * Network analysis with networkx
+   * Text analysis with nltk
 
 *Recommended Literature*:
 * [Matplotlib User Guide](https://matplotlib.org/stable/users/index.html)
