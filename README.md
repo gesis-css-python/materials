@@ -59,16 +59,16 @@ Participants require a laptop computer with Anaconda and git installed.
 ## Day-to-Day Schedule and Literature
 
 ---
-### Day 1: Computation for Social Science
+### [Day 1: Computation for Social Science](https://github.com/gesis-css-python/materials/tree/main/1-css)
 
-*	What is CSS?
+*	[What is CSS?](https://github.com/gesis-css-python/materials/blob/main/1-css/1-1-css.pdf)
    * Data, methods, and questions
    * Accountability, reproducibility, and ethics
-* Setting up your workflow
+* [Setting up your workflow](https://github.com/gesis-css-python/materials/blob/main/1-css/1-2-workflow.ipynb)
    * Installing Python with Anaconda
    * Introduction to Jupyter Notebooks
    * Introduction to Bash and GitHub
-* Introduction to programming with Python
+* [Introduction to programming with Python](https://github.com/gesis-css-python/materials/blob/main/1-css/1-3-programming-intro.ipynb)
    * Scalar data types, operators, and expressions
    * Variable assignment, printing, and comments
    * Non-scalar data types, indexing, and slicing
@@ -81,7 +81,7 @@ Participants require a laptop computer with Anaconda and git installed.
 
 
 ---
-### Day 2: Writing Legible, Modular, and Optimized Code
+### [Day 2: Writing Legible, Modular, and Optimized Code](https://github.com/gesis-css-python/materials/tree/main/2-code)
 
 * Understanding control flow
    * Conditionals
@@ -101,7 +101,7 @@ Participants require a laptop computer with Anaconda and git installed.
 
 
 ---
-### Day 3: Obtaining Data
+### [Day 3: Obtaining Data](https://github.com/gesis-css-python/materials/tree/main/3-data)
 
 * Handling social data
    * Ethics of data access
@@ -119,7 +119,7 @@ Participants require a laptop computer with Anaconda and git installed.
 * Ruths, D., & Pfeffer, J. (2014). [Social media for large studies of behavior](https://doi.org/10.1126/science.346.6213.1063). Science, 346(6213), 1063-1064.  
 
 ---
-### Day 4: Analysing Rectangular Data
+### [Day 4: Analysing Rectangular Data](https://github.com/gesis-css-python/materials/tree/main/4-analysis)
 
 * Introduction to pandas
    * Creating DataFrames
@@ -137,7 +137,7 @@ Participants require a laptop computer with Anaconda and git installed.
 * [Pandas Documentation](https://pandas.pydata.org/docs/)
 
 ---
-### Day 5: Visualising Data and Analysing Non-Rectangular Data
+### [Day 5: Visualising Data and Analysing Non-Rectangular Data](https://github.com/gesis-css-python/materials/tree/main/5-visualisation)
 
 * Basics of visualisation
    * Understanding plot elements
