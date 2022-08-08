@@ -83,17 +83,15 @@ Participants require a laptop computer with Anaconda and git installed.
 ---
 ### [Day 2: Writing Legible, Modular, and Optimized Code](https://github.com/gesis-css-python/materials/tree/main/2-code)
 
-* Understanding control flow
+* [Understanding control flow](https://github.com/gesis-css-python/materials/blob/main/2-code/2-1-control-flow.ipynb)
    * Conditionals
    * Iteration
-   * List comprehensions
-* Abstraction and decomposition with functions
-   * Function specifications
-   * Function arguments
-   * Variable scope
-* Object-oriented programming with classes
-* Modules and libraries
-
+      * List comprehensions
+   * Functions
+   * Modules and libraries
+* [Abstraction and decomposition](https://github.com/gesis-css-python/materials/blob/main/2-code/2-2-oop.ipynb)
+  * Procedural programming with functions
+  * Object-oriented programming with classes
 
 *Recommended Literature*:
 * [Python Documentation](https://docs.python.org/3/)
