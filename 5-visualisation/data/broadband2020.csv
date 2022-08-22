@@ -1,0 +1,267 @@
+,Country Code,Country Name,Region,Broadband
+0,ABW,Aruba,Latin America & Caribbean,17.79592754
+1,AFE,Africa Eastern and Southern,,0.740055765
+2,AFG,Afghanistan,South Asia,0.068253606
+3,AFW,Africa Western and Central,,0.391018789
+4,AGO,Angola,Sub-Saharan Africa,0.70166157
+5,ALB,Albania,Europe & Central Asia,17.68495137
+6,AND,Andorra,Europe & Central Asia,47.88714166
+7,ARB,Arab World,,8.922365422
+8,ARE,United Arab Emirates,Middle East & North Africa,32.81083014
+9,ARG,Argentina,Latin America & Caribbean,21.17800217
+10,ARM,Armenia,Europe & Central Asia,14.52486347
+11,ASM,American Samoa,East Asia & Pacific,
+12,ATG,Antigua and Barbuda,Latin America & Caribbean,8.169183796
+13,AUS,Australia,East Asia & Pacific,35.68494272
+14,AUT,Austria,Europe & Central Asia,28.934986
+15,AZE,Azerbaijan,Europe & Central Asia,19.68082814
+16,BDI,Burundi,Sub-Saharan Africa,0.035573769
+17,BEL,Belgium,Europe & Central Asia,40.84869715
+18,BEN,Benin,Sub-Saharan Africa,0.247302692
+19,BFA,Burkina Faso,Sub-Saharan Africa,0.066874695
+20,BGD,Bangladesh,South Asia,6.104108727000001
+21,BGR,Bulgaria,Europe & Central Asia,30.43922777
+22,BHR,Bahrain,Middle East & North Africa,8.752361782000001
+23,BHS,"Bahamas, The",Latin America & Caribbean,21.10648859
+24,BIH,Bosnia and Herzegovina,Europe & Central Asia,23.48267308
+25,BLR,Belarus,Europe & Central Asia,34.45275392
+26,BLZ,Belize,Latin America & Caribbean,9.053688372
+27,BMU,Bermuda,North America,36.93117955
+28,BOL,Bolivia,Latin America & Caribbean,7.98352029
+29,BRA,Brazil,Latin America & Caribbean,17.09859319
+30,BRB,Barbados,Latin America & Caribbean,44.54110483
+31,BRN,Brunei Darussalam,East Asia & Pacific,16.24717986
+32,BTN,Bhutan,South Asia,0.41329276
+33,BWA,Botswana,Sub-Saharan Africa,11.03597637
+34,CAF,Central African Republic,Sub-Saharan Africa,
+35,CAN,Canada,North America,41.93139851
+36,CEB,Central Europe and the Baltics,,27.8158995
+37,CHE,Switzerland,Europe & Central Asia,46.54435514
+38,CHI,Channel Islands,Europe & Central Asia,
+39,CHL,Chile,Latin America & Caribbean,19.68919452
+40,CHN,China,East Asia & Pacific,33.59560288
+41,CIV,Cote d'Ivoire,Sub-Saharan Africa,0.986027365
+42,CMR,Cameroon,Sub-Saharan Africa,2.722002295
+43,COD,"Congo, Dem. Rep.",Sub-Saharan Africa,0.034613125
+44,COG,"Congo, Rep.",Sub-Saharan Africa,0.018122222
+45,COL,Colombia,Latin America & Caribbean,15.26008418
+46,COM,Comoros,Sub-Saharan Africa,0.122584956
+47,CPV,Cabo Verde,Sub-Saharan Africa,4.4675505
+48,CRI,Costa Rica,Latin America & Caribbean,19.48767186
+49,CSS,Caribbean small states,,18.01027641
+50,CUB,Cuba,Latin America & Caribbean,2.045218095
+51,CUW,Curacao,Latin America & Caribbean,33.51757845
+52,CYM,Cayman Islands,Latin America & Caribbean,48.6899364
+53,CYP,Cyprus,Europe & Central Asia,37.3963964
+54,CZE,Czech Republic,Europe & Central Asia,35.90842117
+55,DEU,Germany,Europe & Central Asia,43.22463486
+56,DJI,Djibouti,Middle East & North Africa,2.535728745
+57,DMA,Dominica,Latin America & Caribbean,22.22654405
+58,DNK,Denmark,Europe & Central Asia,44.72015997
+59,DOM,Dominican Republic,Latin America & Caribbean,9.512044256
+60,DZA,Algeria,Middle East & North Africa,8.643942434
+61,EAP,East Asia & Pacific (excluding high income),,25.33414864
+62,EAR,Early-demographic dividend,,4.883383803
+63,EAS,East Asia & Pacific,,26.41097051
+64,ECA,Europe & Central Asia (excluding high income),,19.84439311
+65,ECS,Europe & Central Asia,,29.86840526
+66,ECU,Ecuador,Latin America & Caribbean,13.44039983
+67,EGY,"Egypt, Arab Rep.",Middle East & North Africa,9.136193337
+68,EMU,Euro area,,38.95134401
+69,ERI,Eritrea,Sub-Saharan Africa,0.140987209
+70,ESP,Spain,Europe & Central Asia,34.62427305
+71,EST,Estonia,Europe & Central Asia,31.33049637
+72,ETH,Ethiopia,Sub-Saharan Africa,0.18440621399999998
+73,EUU,European Union,,36.79727485
+74,FCS,Fragile and conflict affected situations,,1.844786929
+75,FIN,Finland,Europe & Central Asia,33.31696964
+76,FJI,Fiji,East Asia & Pacific,2.572606239
+77,FRA,France,Europe & Central Asia,46.92102436
+78,FRO,Faroe Islands,Europe & Central Asia,37.74430551
+79,FSM,"Micronesia, Fed. Sts.",East Asia & Pacific,5.216348035
+80,GAB,Gabon,Sub-Saharan Africa,2.004147845
+81,GBR,United Kingdom,Europe & Central Asia,40.25909992
+82,GEO,Georgia,Europe & Central Asia,24.37005019
+83,GHA,Ghana,Sub-Saharan Africa,0.252216237
+84,GIB,Gibraltar,Europe & Central Asia,62.35789974
+85,GIN,Guinea,Sub-Saharan Africa,0.007614525
+86,GMB,"Gambia, The",Sub-Saharan Africa,0.20689643800000002
+87,GNB,Guinea-Bissau,Sub-Saharan Africa,0.12108733699999999
+88,GNQ,Equatorial Guinea,Sub-Saharan Africa,0.07127660000000001
+89,GRC,Greece,Europe & Central Asia,40.84240569
+90,GRD,Grenada,Latin America & Caribbean,28.43863032
+91,GRL,Greenland,Europe & Central Asia,27.56561564
+92,GTM,Guatemala,Latin America & Caribbean,3.416023427
+93,GUM,Guam,East Asia & Pacific,1.777514442
+94,GUY,Guyana,Latin America & Caribbean,12.07803171
+95,HIC,High income,,35.78955848
+96,HKG,"Hong Kong SAR, China",East Asia & Pacific,38.4899735
+97,HND,Honduras,Latin America & Caribbean,4.007387673
+98,HPC,Heavily indebted poor countries (HIPC),,0.64045234
+99,HRV,Croatia,Europe & Central Asia,25.11342137
+100,HTI,Haiti,Latin America & Caribbean,0.271869536
+101,HUN,Hungary,Europe & Central Asia,33.80113207
+102,IBD,IBRD only,,15.93827358
+103,IBT,IDA & IBRD total,,12.27803755
+104,IDA,IDA total,,1.631652867
+105,IDB,IDA blend,,1.6017350190000001
+106,IDN,Indonesia,East Asia & Pacific,4.285632888
+107,IDX,IDA only,,1.6471272890000002
+108,IMN,Isle of Man,Europe & Central Asia,
+109,IND,India,South Asia,1.663038194
+110,INX,Not classified,,
+111,IRL,Ireland,Europe & Central Asia,30.71159828
+112,IRN,"Iran, Islamic Rep.",Middle East & North Africa,11.38690225
+113,IRQ,Iraq,Middle East & North Africa,15.54876024
+114,ISL,Iceland,Europe & Central Asia,41.55865468
+115,ISR,Israel,Middle East & North Africa,30.06260156
+116,ITA,Italy,Europe & Central Asia,29.98385626
+117,JAM,Jamaica,Latin America & Caribbean,13.02199437
+118,JOR,Jordan,Middle East & North Africa,6.179914916
+119,JPN,Japan,East Asia & Pacific,34.78970763
+120,KAZ,Kazakhstan,Europe & Central Asia,13.955588699999998
+121,KEN,Kenya,Sub-Saharan Africa,1.253812071
+122,KGZ,Kyrgyz Republic,Europe & Central Asia,4.429665269
+123,KHM,Cambodia,East Asia & Pacific,1.3982444490000001
+124,KIR,Kiribati,East Asia & Pacific,0.154877814
+125,KNA,St. Kitts and Nevis,Latin America & Caribbean,56.39203744
+126,KOR,"Korea, Rep.",East Asia & Pacific,43.548931
+127,KWT,Kuwait,Middle East & North Africa,1.731571727
+128,LAC,Latin America & Caribbean (excluding high income),,14.77072825
+129,LAO,Lao PDR,East Asia & Pacific,1.759314747
+130,LBN,Lebanon,Middle East & North Africa,6.330283227000001
+131,LBR,Liberia,Sub-Saharan Africa,0.257034795
+132,LBY,Libya,Middle East & North Africa,4.831696863
+133,LCA,St. Lucia,Latin America & Caribbean,17.97121338
+134,LCN,Latin America & Caribbean,,14.82907212
+135,LDC,Least developed countries: UN classification,,1.495019009
+136,LIC,Low income,,0.470790614
+137,LIE,Liechtenstein,Europe & Central Asia,47.34053714
+138,LKA,Sri Lanka,South Asia,8.31975568
+139,LMC,Lower middle income,,3.68126248
+140,LMY,Low & middle income,,12.11759721
+141,LSO,Lesotho,Sub-Saharan Africa,0.236200367
+142,LTE,Late-demographic dividend,,27.56798125
+143,LTU,Lithuania,Europe & Central Asia,29.27000036
+144,LUX,Luxembourg,Europe & Central Asia,37.5660167
+145,LVA,Latvia,Europe & Central Asia,26.00835119
+146,MAC,"Macao SAR, China",East Asia & Pacific,32.03277199
+147,MAF,St. Martin (French part),Latin America & Caribbean,
+148,MAR,Morocco,Middle East & North Africa,5.696023035
+149,MCO,Monaco,Europe & Central Asia,53.20065236
+150,MDA,Moldova,Europe & Central Asia,17.82368852
+151,MDG,Madagascar,Sub-Saharan Africa,0.11556093699999999
+152,MDV,Maldives,South Asia,11.7816496
+153,MEA,Middle East & North Africa,,11.02017898
+154,MEX,Mexico,Latin America & Caribbean,17.01362182
+155,MHL,Marshall Islands,East Asia & Pacific,1.689474573
+156,MIC,Middle income,,13.3817608
+157,MKD,North Macedonia,Europe & Central Asia,22.82686642
+158,MLI,Mali,Sub-Saharan Africa,1.203930722
+159,MLT,Malta,Middle East & North Africa,48.33481677
+160,MMR,Myanmar,East Asia & Pacific,1.265975982
+161,MNA,Middle East & North Africa (excluding high income),,9.113887436
+162,MNE,Montenegro,Europe & Central Asia,29.32430668
+163,MNG,Mongolia,East Asia & Pacific,9.369701887
+164,MNP,Northern Mariana Islands,East Asia & Pacific,
+165,MOZ,Mozambique,Sub-Saharan Africa,0.223961049
+166,MRT,Mauritania,Sub-Saharan Africa,0.39695392700000004
+167,MUS,Mauritius,Sub-Saharan Africa,25.41344019
+168,MWI,Malawi,Sub-Saharan Africa,0.064061844
+169,MYS,Malaysia,East Asia & Pacific,10.37755702
+170,NAC,North America,,37.1535199
+171,NAM,Namibia,Sub-Saharan Africa,2.796759422
+172,NCL,New Caledonia,East Asia & Pacific,19.26458329
+173,NER,Niger,Sub-Saharan Africa,0.049573167
+174,NGA,Nigeria,Sub-Saharan Africa,0.03168387
+175,NIC,Nicaragua,Latin America & Caribbean,4.3829516669999995
+176,NLD,Netherlands,Europe & Central Asia,43.91638292
+177,NOR,Norway,Europe & Central Asia,44.04270166
+178,NPL,Nepal,South Asia,4.358747877
+179,NRU,Nauru,East Asia & Pacific,
+180,NZL,New Zealand,East Asia & Pacific,36.60096889
+181,OED,OECD members,,33.31441087
+182,OMN,Oman,Middle East & North Africa,10.85332532
+183,OSS,Other small states,,8.544898505
+184,PAK,Pakistan,South Asia,1.142197597
+185,PAN,Panama,Latin America & Caribbean,13.03460882
+186,PER,Peru,Latin America & Caribbean,9.23211658
+187,PHL,Philippines,East Asia & Pacific,7.242650049
+188,PLW,Palau,East Asia & Pacific,
+189,PNG,Papua New Guinea,East Asia & Pacific,0.234714917
+190,POL,Poland,Europe & Central Asia,22.11352028
+191,PRE,Pre-demographic dividend,,1.094377228
+192,PRI,Puerto Rico,Latin America & Caribbean,23.46447021
+193,PRK,"Korea, Dem. People's Rep.",East Asia & Pacific,
+194,PRT,Portugal,Europe & Central Asia,40.80527354
+195,PRY,Paraguay,Latin America & Caribbean,7.884556661
+196,PSE,West Bank and Gaza,Middle East & North Africa,7.388363305
+197,PSS,Pacific island small states,,1.636655555
+198,PST,Post-demographic dividend,,36.85346752
+199,PYF,French Polynesia,East Asia & Pacific,22.783260000000002
+200,QAT,Qatar,Middle East & North Africa,10.27839474
+201,ROU,Romania,Europe & Central Asia,29.55023033
+202,RUS,Russian Federation,Europe & Central Asia,23.22501795
+203,RWA,Rwanda,Sub-Saharan Africa,0.136540321
+204,SAS,South Asia,,2.0831343540000002
+205,SAU,Saudi Arabia,Middle East & North Africa,22.66413005
+206,SDN,Sudan,Sub-Saharan Africa,0.065638508
+207,SEN,Senegal,Sub-Saharan Africa,0.918619628
+208,SGP,Singapore,East Asia & Pacific,25.80532899
+209,SLB,Solomon Islands,East Asia & Pacific,0.14558499
+210,SLE,Sierra Leone,Sub-Saharan Africa,
+211,SLV,El Salvador,Latin America & Caribbean,9.034558729
+212,SMR,San Marino,Europe & Central Asia,32.41873213
+213,SOM,Somalia,Sub-Saharan Africa,0.7487468559999999
+214,SRB,Serbia,Europe & Central Asia,25.18349944
+215,SSA,Sub-Saharan Africa (excluding high income),,0.596980434
+216,SSD,South Sudan,Sub-Saharan Africa,
+217,SSF,Sub-Saharan Africa,,0.600071916
+218,SST,Small states,,9.829637599
+219,STP,Sao Tome and Principe,Sub-Saharan Africa,1.146199791
+220,SUR,Suriname,Latin America & Caribbean,15.72877034
+221,SVK,Slovak Republic,Europe & Central Asia,31.16616437
+222,SVN,Slovenia,Europe & Central Asia,31.34311846
+223,SWE,Sweden,Europe & Central Asia,41.38493247
+224,SWZ,Eswatini,Sub-Saharan Africa,1.034336525
+225,SXM,Sint Maarten (Dutch part),Latin America & Caribbean,
+226,SYC,Seychelles,Sub-Saharan Africa,35.55370271
+227,SYR,Syrian Arab Republic,Middle East & North Africa,8.853072839
+228,TCA,Turks and Caicos Islands,Latin America & Caribbean,
+229,TCD,Chad,Sub-Saharan Africa,0.0
+230,TEA,East Asia & Pacific (IDA & IBRD countries),,25.33414864
+231,TEC,Europe & Central Asia (IDA & IBRD countries),,20.48290784
+232,TGO,Togo,Sub-Saharan Africa,0.636644005
+233,THA,Thailand,East Asia & Pacific,16.44451091
+234,TJK,Tajikistan,Europe & Central Asia,0.062908611
+235,TKM,Turkmenistan,Europe & Central Asia,0.165804483
+236,TLA,Latin America & the Caribbean (IDA & IBRD countries),,14.99106904
+237,TLS,Timor-Leste,East Asia & Pacific,0.005688519
+238,TMN,Middle East & North Africa (IDA & IBRD countries),,9.136380691
+239,TON,Tonga,East Asia & Pacific,4.730592743
+240,TSA,South Asia (IDA & IBRD),,2.0831343540000002
+241,TSS,Sub-Saharan Africa (IDA & IBRD countries),,0.600071916
+242,TTO,Trinidad and Tobago,Latin America & Caribbean,26.92206007
+243,TUN,Tunisia,Middle East & North Africa,11.28777398
+244,TUR,Turkiye,Europe & Central Asia,19.84235016
+245,TUV,Tuvalu,East Asia & Pacific,
+246,TZA,Tanzania,Sub-Saharan Africa,1.901101308
+247,UGA,Uganda,Sub-Saharan Africa,0.12809949699999998
+248,UKR,Ukraine,Europe & Central Asia,18.61701348
+249,UMC,Upper middle income,,26.1255699
+250,URY,Uruguay,Latin America & Caribbean,30.62129181
+251,USA,United States,North America,36.60877024
+252,UZB,Uzbekistan,Europe & Central Asia,14.4013259
+253,VCT,St. Vincent and the Grenadines,Latin America & Caribbean,22.29403281
+254,VEN,"Venezuela, RB",Latin America & Caribbean,9.008163612999999
+255,VGB,British Virgin Islands,Latin America & Caribbean,22.28837948
+256,VIR,Virgin Islands (U.S.),Latin America & Caribbean,
+257,VNM,Vietnam,East Asia & Pacific,17.15583808
+258,VUT,Vanuatu,East Asia & Pacific,0.90673786
+259,WLD,World,,15.8873959
+260,WSM,Samoa,East Asia & Pacific,0.852762406
+261,XKX,Kosovo,Europe & Central Asia,
+262,YEM,"Yemen, Rep.",Middle East & North Africa,1.3109383490000002
+263,ZAF,South Africa,Sub-Saharan Africa,2.19707601
+264,ZMB,Zambia,Sub-Saharan Africa,0.447765456
+265,ZWE,Zimbabwe,Sub-Saharan Africa,1.368916372
