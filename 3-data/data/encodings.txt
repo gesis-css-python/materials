@@ -1,0 +1,4 @@
+Character encodings used to be a mess.
+
+We're making progress now though!
+ид и║ i
