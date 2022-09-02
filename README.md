@@ -101,15 +101,18 @@ Participants require a laptop computer with Anaconda and git installed.
 ---
 ### [Day 3: Obtaining Data](https://github.com/gesis-css-python/materials/tree/main/3-data)
 
-* Handling social data
+* [Handling social data](https://github.com/gesis-css-python/materials/blob/main/3-data/3-1-handling-data.ipynb)
    * Ethics of data access
    * Reading and writing common file types
    * More complex data types: time and dates, Unicode, etc.
-* Scraping web data
+* [Scraping web data](https://github.com/gesis-css-python/materials/blob/main/3-data/3-2-scraping-data.ipynb)
    * Inspecting webpages
    * Parsing static HTML with BeautifulSoup
    * Scraping dynamic pages with Selenium
-* JSON and working with APIs
+* [JSON and working with APIs](https://github.com/gesis-css-python/materials/blob/main/3-data/3-3-json-apis.ipynb)
+   * The Anatomy of APIs
+   * Authentication
+   * Pagination
 
 *Recommended Literature*:
 * [BeautifulSoup Documentation](https://beautiful-soup-4.readthedocs.io)
@@ -119,17 +122,24 @@ Participants require a laptop computer with Anaconda and git installed.
 ---
 ### [Day 4: Analysing Rectangular Data](https://github.com/gesis-css-python/materials/tree/main/4-analysis)
 
-* Introduction to pandas
+* [Introduction to pandas](https://github.com/gesis-css-python/materials/blob/main/4-analysis/4-1-pandas.ipynb)
    * Creating DataFrames
    * Accessing and filtering data
    * Computing summary statistics
    * Reading and writing data
-* Manipulating pandas DataFrames
+* [Manipulating pandas DataFrames](https://github.com/gesis-css-python/materials/blob/main/4-analysis/4-2-manipulating-dataframes.ipynb)
    * Handling different data types
    * Combining data from different tables
    * Applying functions to DataFrames
    * Creating basic plots using pandas
-* Machine learning with scikit-learn
+* [Machine learning with scikit-learn](https://github.com/gesis-css-python/materials/blob/main/4-analysis/4-3-machine-learning-with-sklearn.ipynb)
+   * Machine learning (a very brief intro)
+   * Scikit-learn
+   * Training data vs test data
+   * Random forests
+   * Feature importance
+   * Hyper-parameter tuning
+
 
 *Recommended Literature*:
 * [Pandas Documentation](https://pandas.pydata.org/docs/)
@@ -137,18 +147,19 @@ Participants require a laptop computer with Anaconda and git installed.
 ---
 ### [Day 5: Visualising Data and Analysing Non-Rectangular Data](https://github.com/gesis-css-python/materials/tree/main/5-visualisation)
 
-* Basics of visualisation
+* [Basics of visualisation](https://github.com/gesis-css-python/materials/blob/main/5-visualisation/5-1-visualisation-basics.ipynb)
    * Understanding plot elements
    * Choosing the right chart
    * Principles of colour 	
-* Plotting data with Matplotlib and Seaborn
+   * Approaches going forward
+* [Plotting data with Matplotlib and Seaborn](https://github.com/gesis-css-python/materials/blob/main/5-visualisation/5-2-plotting-data.ipynb)
    * Basic plotting in Python
    * Pyplot vs the object-oriented approach
    * Customising plots and figures
    * Attractive plots with Seaborn
-* Analysis of non-rectangular data
-   * Network analysis with networkx
-   * Text analysis with nltk
+* [Analysis of non-rectangular data](https://github.com/gesis-css-python/materials/blob/main/5-visualisation/5-3-nonrectangular-analysis.ipynb)
+   * Network analysis with NetworkX
+   * Text analysis with NLTK
 
 *Recommended Literature*:
 * [Matplotlib User Guide](https://matplotlib.org/stable/users/index.html)
